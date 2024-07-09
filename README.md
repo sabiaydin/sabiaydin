@@ -30,11 +30,7 @@
 
 
 <br>
-<h3 align="left">Coding Times:</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sabi_aydin12" alt="My Coding Times by WakaTime"/>
-</p>
 
 <h3 align="left">Top Languages:</h3>
 
