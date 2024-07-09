@@ -36,5 +36,9 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sabiaydin" alt="My Coding Times by WakaTime"/>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabiaydin&show_icons=true&locale=en&layout=compact" alt="sabiaydin" />
+<h3 align="left">Top Languages:</h3>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabiaydin&show_icons=true&locale=en&layout=compact&langs_count=6&hide=php" alt="sabiaydin" />
+</p>
 
