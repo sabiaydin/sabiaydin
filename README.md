@@ -22,18 +22,19 @@
   </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="80" height="80"/> 
-  </a>
-  <a href="https://micronaut.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://objectcomputing.com/files/2616/2275/4406/micronaut_stacked_black.svg" alt="micronaut" width="80" height="80"/> 
   </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="80" height="80"/> 
   </a>
 </p>
 
+
 <br>
 <h3 align="left">Coding Times:</h3>
 
-![My Coding Times by WakakTime](https://github-readme-stats.vercel.app/api/wakatime?username=sabiaydin)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sabiaydin" alt="My Coding Times by WakaTime"/>
+</p>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabiaydin&show_icons=true&locale=en&layout=compact" alt="sabiaydin" />
 
