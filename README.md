@@ -23,19 +23,3 @@
 </a>
 
 </p>
-
-<br>
-
-<h3 align="left">Top Languages:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabiaydin&show_icons=true&locale=en&layout=compact&langs_count=6&hide=php" alt="sabiaydin" />
-</p>
-
-<br>
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sabiaydin&show_icons=true&locale=en" alt="sabiaydin" />
-</p>
-
-<br>
