@@ -50,6 +50,9 @@
 🚀 Exploring DevOps & Cloud Technologies
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sabiaydin/sabiaydin/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ---
 
 <!-- FOOTER -->
