@@ -21,17 +21,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabiaydin&show_icons=true&theme=radical&hide_border=true&title_color=00F7FF&icon_color=8A2BE2"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabiaydin&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
 
 ## 🔥 Contribution Streak
 
@@ -50,10 +39,7 @@
 🚀 Exploring DevOps & Cloud Technologies
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sabiaydin/sabiaydin/output/github-contribution-grid-snake.svg" />
-</p>
----
+
 
 <!-- FOOTER -->
 <p align="center">
