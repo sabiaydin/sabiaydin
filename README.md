@@ -16,7 +16,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,mongodb,mysql,redis,kubernetes,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,mongodb,mysql,redis,git" />
 </p>
 
 ---
