@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi 👋, I'm Sabina Mammadova ✨</h1>
-<h3 align="center">🚀 Java Backend Developer</h3>
+
 
 <!-- HEADER GIF -->
 <p align="center">
